@@ -1,0 +1,19 @@
+{
+  "name": "express_examples",
+  "version": "1.0.0",
+  "description": "Exemplos sobre o framework express",
+  "main": "router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagosantosleite/exemplos_express.git"
+  },
+  "author": "Thiago LEite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagosantosleite/exemplos_express/issues"
+  },
+  "homepage": "https://github.com/thiagosantosleite/exemplos_express#readme"
+}
